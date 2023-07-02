@@ -4,10 +4,11 @@ entries:
   - apiVersion: v2
     appVersion: 1.1.0
     created: "2021-05-31T00:10:53.007644+08:00"
-    description: deploy metabase in kubernetes cluster with persistent h2 database
+    description: deploy metabase in kubernetes cluster with persistent h2 database.
     name: metabase
     type: application
     urls:
     - metabase-2.7.1.tgz
     version: 2.7.1
 generated: "2021-05-31T00:10:53.007644+08:00"
+
